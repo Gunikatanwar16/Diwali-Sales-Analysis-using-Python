@@ -75,13 +75,9 @@ Diwali-Sales-Analysis/
 
 Clone this repository
 
-git clone https://github.com/your-username/Diwali-Sales-Analysis.git
-
-
 Install required libraries
 
 pip install pandas numpy matplotlib seaborn
-
 
 Open and run the Jupyter Notebook
 
